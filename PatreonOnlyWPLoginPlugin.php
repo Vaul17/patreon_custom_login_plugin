@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Patreon Custom Login Plugin
  * Description: Makes the "Login with Patreon" button the only login option for non-admins on wp-login.php, replaces the WordPress logo, and hides the "Lost your password?" link.
- * Version: 1.0.4
- * Author: Your Name
+ * Version: 1.0.5
+ * Author: Vau17
  */
 
 if (!defined('ABSPATH')) {
